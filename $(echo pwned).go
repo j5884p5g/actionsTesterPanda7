@@ -1,2 +1,2 @@
-// Copyright IBM Corp. 2024, 2026
+// Copyright IBM Corp. 2026
 
